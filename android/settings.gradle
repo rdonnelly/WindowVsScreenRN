@@ -1,0 +1,3 @@
+rootProject.name = 'WindowVsScreen'
+
+include ':app'
